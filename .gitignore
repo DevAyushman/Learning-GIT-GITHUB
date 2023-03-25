@@ -1,0 +1,8 @@
+# this files will be removed
+
+
+*.js
+*.php
+*.mp4
+node/modules/
+asset/videos/
