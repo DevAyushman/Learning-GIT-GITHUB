@@ -1,1 +1,4 @@
-Function one- This is used to test
+Function one- This is used to test 1
+Function two- This is used to test 2
+Function three- This is used to test 3
+
