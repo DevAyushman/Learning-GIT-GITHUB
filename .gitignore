@@ -2,7 +2,6 @@
 
 
 *.js
-*.php
 *.mp4
 node/modules/
 asset/videos/
