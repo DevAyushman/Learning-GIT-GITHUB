@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 Function one- This is used to test 1 very very very imp function
 Function two- This is used to test 2
 Function three- This is used to test 3
 
 changing some shit 
+=======
+Function one- This is used to test 123456789
+Function two- This is used to test 2
+Function three- This is used to test 3
+
+Login page authenticator assembled
+>>>>>>> conflict
